@@ -104,7 +104,6 @@ const solomon = {
 | **Feed Performance** | Redis feed cache layer — hot feeds load in sub-millisecond; cold starts eliminated | `PERFORMANCE` |
 | **Media Pipeline** | End-to-end Cloudinary integration: upload → transform → CDN delivery with optimized payloads | `SYSTEMS` |
 | **Backend Architecture** | Strict routes → controller → service separation enforced across the entire Express codebase | `ARCHITECTURE` |
-| **Platform** | Full social media app (Reels, Search, Chat) shipped in React Native + Expo from zero | `SHIPPED` |
 
 </div>
 
