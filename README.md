@@ -35,7 +35,6 @@ const solomon = {
   role:       "Full Stack JavaScript Engineer",
   location:   "Kigali, Rwanda 🇷🇼",
   focus:      ["Mobile Apps", "Scalable APIs", "Real-Time Systems"],
-  currentWork: "Building a feature-rich social media platform",
   stack: {
     mobile:   ["React Native", "Expo"],
     frontend: ["React", "Vite"],
@@ -137,18 +136,6 @@ const solomon = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sugirangendahayo&theme=react-dark&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FF6C37&hide_border=true" />
 </div>
-
----
-
-## `$ cat /etc/currently-building`
-
-> **[WIP] Social Media Platform** — A production-grade mobile app pushing the limits of what React Native + Expo can do. Features include:
->
-> - 🎬 **Reels** — Short-form video with pooled players, LRU eviction, and smart preloading
-> - 💬 **Real-Time Messaging** — Socket.io powered DMs with delivery states and offline queuing
-> - ⚡ **Offline-First** — SQLite + background sync so the app works anywhere, anytime
-> - 🚀 **Redis Feed Caching** — Sub-millisecond feed loads on repeat visits
-> - ☁️ **Cloudinary Media Pipeline** — Optimized upload, transformation, and CDN delivery
 
 ---
 
